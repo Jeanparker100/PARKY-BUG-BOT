@@ -11,19 +11,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "22898133388"
-global.ownername = "🩵 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛"
+global.ownernomer = "237658222828"
+global.ownername = "𝐀𝐝𝐫𝐢𝐚𝐧 𝐃𝐨𝐥𝐥𝐚𝐫𝐬"
 global.ytname = "YT: Jean-parker-tech"
 global.socialm = "GitHub: Jeanparker100"
 global.location = "Togo, maritime, Lomé"
 
-global.ownernumber = '22898133388'  //creator number
-global.ownername = '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛' //owner name
+global.ownernumber = '2237658222828'  //creator number
+global.ownername = '𝐀𝐝𝐫𝐢𝐚𝐧 𝐃𝐨𝐥𝐥𝐚𝐫𝐬' //owner name
 global.botname = '𝙿𝙰𝚁𝙺𝚈-𝙱𝚄𝙶-𝙱𝙾𝚃' //name of the bot
 
 //sticker details
 global.packname = '¹⁴³ ᴬˡᵉᵐᵃᵖ 🧸💜'
-global.author = '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛'
+global.author = '𝐀𝐝𝐫𝐢𝐚𝐧 𝐃𝐎𝐥𝐥𝐚𝐫𝐬'
 
 //console view/theme
 global.themeemoji = '🩵'
