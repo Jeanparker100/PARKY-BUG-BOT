@@ -4,26 +4,26 @@
 //Instagram: its_jeanparker
 //Telegram: t.me/Jeanparker100
 //GitHub: @Jeanparker100
-//WhatsApp: +22898133388
+//WhatsApp: +50937220801
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Jean-Parker-tech
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "22898133388"
-global.ownername = "🩵 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛"
+global.ownernomer = "50937220801"
+global.ownername = "🩵 Immortal"
 global.ytname = "YT: Jean-parker-tech"
 global.socialm = "GitHub: Jeanparker100"
 global.location = "Togo, maritime, Lomé"
 
-global.ownernumber = '22898133388'  //creator number
+global.ownernumber = '50937220801'  //creator number
 global.ownername = '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛' //owner name
 global.botname = '𝙿𝙰𝚁𝙺𝚈-𝙱𝚄𝙶-𝙱𝙾𝚃' //name of the bot
 
 //sticker details
 global.packname = '¹⁴³ ᴬˡᵉᵐᵃᵖ 🧸💜'
-global.author = '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛'
+global.author = 'Immortal'
 
 //console view/theme
 global.themeemoji = '🩵'
@@ -33,7 +33,7 @@ global.wm = "𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 in©"
 global.link = 'https://whatsapp.com/channel/0029VagLiHaEVccM6o6Sqc45'
 
 //custom prefix
-global.prefa = '.'
+global.prefa = '+'
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
@@ -49,7 +49,7 @@ global.autoswview = true //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v1'
+global.typemenu = 'v3'
 
 //text bug
 global.xbugtex = {
